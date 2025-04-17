@@ -1,0 +1,114 @@
+{
+  "width": 583,
+  "height": 290,
+  "objects": [
+    {
+      "type": "text",
+      "x": 16.0,
+      "y": 75.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{barcode}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 438.0,
+      "y": 74.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{datamatrix}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 457.0,
+      "y": 193.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{crypto_tail}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 14.0,
+      "y": 121.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{product_name}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 153.0,
+      "y": 122.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{size}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 190.0,
+      "y": 268.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{country}",
+      "is_custom": false
+    },
+    {
+      "type": "image",
+      "x": 288.0,
+      "y": 15.0,
+      "font_size": 12,
+      "bold": false,
+      "path": "eac.jpg",
+      "scale": 1.0
+    },
+    {
+      "type": "text",
+      "x": 157.0,
+      "y": 226.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{manufacture_date}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 15.0,
+      "y": 183.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{composition}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 20.0,
+      "y": 18.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "{article}",
+      "is_custom": false
+    },
+    {
+      "type": "text",
+      "x": 10.0,
+      "y": 266.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "Страна происхождения:",
+      "is_custom": true
+    },
+    {
+      "type": "text",
+      "x": 14.0,
+      "y": 226.0,
+      "font_size": 12,
+      "bold": false,
+      "text": "Дата изготовления:",
+      "is_custom": true
+    }
+  ]
+}
